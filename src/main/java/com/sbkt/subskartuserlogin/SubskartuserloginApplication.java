@@ -8,6 +8,7 @@ public class SubskartuserloginApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SubskartuserloginApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
